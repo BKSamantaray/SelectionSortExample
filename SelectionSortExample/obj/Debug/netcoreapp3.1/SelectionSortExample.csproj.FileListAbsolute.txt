@@ -1,0 +1,11 @@
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.exe
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.deps.json
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.runtimeconfig.json
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.runtimeconfig.dev.json
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\bin\Debug\netcoreapp3.1\SelectionSortExample.pdb
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\obj\Debug\netcoreapp3.1\SelectionSortExample.csprojAssemblyReference.cache
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\obj\Debug\netcoreapp3.1\SelectionSortExample.AssemblyInfoInputs.cache
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\obj\Debug\netcoreapp3.1\SelectionSortExample.AssemblyInfo.cs
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\obj\Debug\netcoreapp3.1\SelectionSortExample.dll
+C:\Users\bijaya_kumar_samanta\source\Test\SelectionSortExample\SelectionSortExample\obj\Debug\netcoreapp3.1\SelectionSortExample.pdb
